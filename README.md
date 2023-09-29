@@ -5,3 +5,9 @@
 ## Activity 1
 
 ![](screenshots/activity1.png)
+
+## Activity 2
+
+![](screenshots/activity2-repo.png)
+
+![](screenshots/activity2-homepage.png)
