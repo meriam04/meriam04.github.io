@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid rgba(2, 87, 121, 0.4); 
   border-radius: 50% !important;
 }
 
@@ -85,7 +85,7 @@
   position: relative;
   padding: 11px 35px;
   background: #fff;
-  color: #00796b;
+  color: #007EA7;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
@@ -314,13 +314,8 @@ h3 {
 
 /* Original */
 
-/* #intro.section {
-  background: url(../../assets/img/white-ai-wallpaper.jpg) no-repeat top center/cover;
-  position: relative;
-} */
-
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #75c0dd repeat;
   position: relative;
 }
 
@@ -351,12 +346,12 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .cerulean {
   padding: 0 10px;
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.2);
   height: 100%;
   left: 0;
   position: absolute;
@@ -383,12 +378,12 @@ h3 {
 
 .card li a {
   margin-right: 0;
-  color: #333;
+  color: #003249;
   border-bottom: 2px solid #ffab40;
 }
 
 .card li a:hover {
-  color: #333;
+  color: #003249;
   font-weight: 500;
 }
 
@@ -428,7 +423,7 @@ h3 {
 
 .card-action span {
   font-size: 85%;
-  color: #666;
+  color: #007EA7;
 }
 
 .card ul {
@@ -448,6 +443,7 @@ h3 {
 
 .card .card-title {
   font-size: 24px;
+  margin-bottom: 0px;
 }
 
 .card .card-content .card-title {
@@ -552,6 +548,10 @@ small {
   color: #008073 !important;
 }
 
+.cerulean-text {
+  color: #007EA7 !important;
+}
+
 /* .teal-text {
   color: #0b5e86 !important;
 } */
@@ -560,6 +560,10 @@ small {
 
 .teal {
   background-color: #008073 !important;
+}
+
+.cerulean {
+  background-color: #007EA7 !important;
 }
 
 /* .teal {
@@ -602,7 +606,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #007EA7;
     height: 56px;
     line-height: 56px;
   }
