@@ -11,3 +11,9 @@
 ![](screenshots/activity2-repo.png)
 
 ![](screenshots/activity2-homepage.png)
+
+## Activity 3
+
+![](screenshots/activity3-repo.png)
+
+![](screenshots/activity3-homepage.png)
